@@ -1,0 +1,15 @@
+@0001000
+
+20210001 //        addi r[1], r[1], 0x1
+20420005 //        addi r[2], r[2], 0x5
+00220020 //        add r[1], r[2], r[0] should be 6
+6c000000 //        push
+
+00410022 // 	sub r[2],r[1],r[0] should have 4
+6c000000 //        push
+
+30430009 //	andi r[2],r[3],0x9  r[3] should be 1
+0060002c //	mul r[3],r[0],r[0] should have 4
+6c000000 // 	push
+0c001001 //	jal 0x001001
+6c000000 //	push

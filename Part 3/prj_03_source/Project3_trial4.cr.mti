@@ -1,0 +1,270 @@
+{C:/Users/Nada/Documents/Project 3/Project 3 trial4/memory.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEMORY_64MB
+
+Top level modules:
+	MEMORY_64MB
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mux.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX32_32x1
+-- Compiling module MUX32_16x1
+-- Compiling module MUX32_8x1
+-- Compiling module MUX32_4x1
+-- Compiling module MUX64_2x1
+-- Compiling module MUX32_2x1
+-- Compiling module MUX1_2x1
+
+Top level modules:
+	MUX32_32x1
+	MUX64_2x1
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mult.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mult.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MULT32
+-- Compiling module MULT32_U
+
+Top level modules:
+	MULT32
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/half_adder.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/half_adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HALF_ADDER
+
+Top level modules:
+	HALF_ADDER
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/alu.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+-- Compiling module SET_LESS_THAN
+-- Compiling module NOR32_1x1
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/da_vinci_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/da_vinci_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DA_VINCI_TB
+
+Top level modules:
+	DA_VINCI_TB
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/testing_1bitreg.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/testing_1bitreg.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module a_bitRegester_tb
+
+Top level modules:
+	a_bitRegester_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/reg_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/reg_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_tb
+
+Top level modules:
+	reg_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/reg_FILETESTING.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/reg_FILETESTING.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module a_RF_TB
+
+Top level modules:
+	a_RF_TB
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/clk_gen.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/clk_gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CLK_GENERATOR
+
+Top level modules:
+	CLK_GENERATOR
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/register_file.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/register_file.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module REGISTER_FILE_32x32
+
+Top level modules:
+	REGISTER_FILE_32x32
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/reg1_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/reg1_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg1_tb
+
+Top level modules:
+	reg1_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/prj_definition.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/prj_definition.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/sr_latch_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/sr_latch_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sr_latch_tb
+
+Top level modules:
+	sr_latch_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/rc_add_sub_32_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/rc_add_sub_32_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rc_add_sub_32_tb
+
+Top level modules:
+	rc_add_sub_32_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/full_adder_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/full_adder_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_adder_tb
+
+Top level modules:
+	full_adder_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/testing_32reg.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/testing_32reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testing_32reg
+
+Top level modules:
+	testing_32reg
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/processor.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/processor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PROC_CS147_SEC05
+
+Top level modules:
+	PROC_CS147_SEC05
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/barrel_shifter_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/barrel_shifter_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module barrel_shifter_tb
+
+Top level modules:
+	barrel_shifter_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/rc_add_sub_32.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/rc_add_sub_32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RC_ADD_SUB_64
+-- Compiling module RC_ADD_SUB_32
+
+Top level modules:
+	RC_ADD_SUB_64
+	RC_ADD_SUB_32
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/full_adder.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/full_adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FULL_ADDER
+
+Top level modules:
+	FULL_ADDER
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/d_ff_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/d_ff_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_ff_tb
+
+Top level modules:
+	d_ff_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/d_latch_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/d_latch_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_latch_tb
+
+Top level modules:
+	d_latch_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mem_64MB_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mem_64MB_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_64MB_TB
+
+Top level modules:
+	MEM_64MB_TB
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/barrel_shifter.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/barrel_shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SHIFT32
+-- Compiling module BARREL_SHIFTER32
+-- Compiling module OR27_1x1
+-- Compiling module SHIFT32_R
+-- Compiling module SHIFT32_L
+
+Top level modules:
+	SHIFT32
+	BARREL_SHIFTER32
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/decoder_5x32_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/decoder_5x32_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module decoder_5x32_tb
+
+Top level modules:
+	decoder_5x32_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/da_vinci.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/da_vinci.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DA_VINCI
+
+Top level modules:
+	DA_VINCI
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mux_tb.v} {2 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mux_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_tb
+** Warning: C:/Users/Nada/Documents/Project 3/Project 3 trial4/mux_tb.v(97): (vlog-2643) Unterminated string literal continues onto next line.
+
+
+Top level modules:
+	mux_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mult_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/mult_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult_tb
+
+Top level modules:
+	mult_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/half_adder_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/half_adder_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module half_adder_tb
+
+Top level modules:
+	half_adder_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/alu_tb.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/alu_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/multipliergolden.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/multipliergolden.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module multipliergolden
+
+Top level modules:
+	multipliergolden
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/logic_32_bit.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/logic_32_bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module NOR32_2x1
+-- Compiling module AND32_2x1
+-- Compiling module INV32_1x1
+-- Compiling module OR32_2x1
+-- Compiling module BUF32_1x1
+
+Top level modules:
+	NOR32_2x1
+	AND32_2x1
+	INV32_1x1
+	OR32_2x1
+	BUF32_1x1
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/testing_flip.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/testing_flip.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testing_flip
+
+Top level modules:
+	testing_flip
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/Project 3 trial4/control_unit.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/Project 3 trial4/control_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CONTROL_UNIT
+-- Compiling module PROC_SM
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}}

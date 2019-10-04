@@ -1,0 +1,294 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vALU
+Z0 !s110 1554852522
+!i10b 1
+!s100 8^;18e;_aSXDzUdSJz5_k0
+IiaDg4>8ICVMVVOhgH4^LD1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Nada/Downloads/Project 2/Project2_02
+w1551226055
+8C:/Users/Nada/Downloads/Project 2/Project2_02/alu.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/alu.v
+L0 25
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1554852522.000000
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/alu.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+valu_tb
+R0
+!i10b 1
+!s100 6B5LVRkfSUQA?J[>ij]SS0
+I[0HgC5PRaJ73nH9;YWDGj0
+R1
+R2
+w1551231662
+8C:/Users/Nada/Downloads/Project 2/Project2_02/alu_tb.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/alu_tb.v
+Z6 L0 26
+R3
+r1
+!s85 0
+31
+R4
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/alu_tb.v|
+!s101 -O0
+!i113 1
+R5
+vCLK_GENERATOR
+R0
+!i10b 1
+!s100 I`I=T4aaeE09lSRDFRN971
+I@cZZGn4To>OJPhg<F?0UK3
+R1
+R2
+w1554535552
+8C:/Users/Nada/Downloads/Project 2/Project2_02/clk_gen.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/clk_gen.v
+L0 16
+R3
+r1
+!s85 0
+31
+R4
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/clk_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/clk_gen.v|
+!s101 -O0
+!i113 1
+R5
+n@c@l@k_@g@e@n@e@r@a@t@o@r
+vCONTROL_UNIT
+R0
+!i10b 1
+!s100 g_iGbNgK6e3In>?A=Kibe3
+IB81Az]En:>k7_F5bioJMO1
+R1
+R2
+Z7 w1554851738
+Z8 8C:/Users/Nada/Downloads/Project 2/Project2_02/control_unit.v
+Z9 FC:/Users/Nada/Downloads/Project 2/Project2_02/control_unit.v
+L0 34
+R3
+r1
+!s85 0
+31
+R4
+Z10 !s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/control_unit.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/control_unit.v|
+!s101 -O0
+!i113 1
+R5
+n@c@o@n@t@r@o@l_@u@n@i@t
+vCONTROL_UNIT_TB
+!s110 1554373381
+!i10b 1
+!s100 PWfQLO2l6^K?1h5U[hCen1
+I=B`@6LA[D5EgiW;hiakCJ1
+R1
+R2
+w1554363050
+8C:/Users/Nada/Downloads/Project 2/Project2_02/control_unit_tb.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/control_unit_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1554373381.000000
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/control_unit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/control_unit_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@c@o@n@t@r@o@l_@u@n@i@t_@t@b
+vDA_VINCI
+R0
+!i10b 1
+!s100 @Cfmb0Z_T`MjRPoLI@k6C0
+IzAoLAlRZWB`inIKhD5VUK3
+R1
+R2
+w1554535544
+8C:/Users/Nada/Downloads/Project 2/Project2_02/da_vinci.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/da_vinci.v
+Z12 L0 24
+R3
+r1
+!s85 0
+31
+R4
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/da_vinci.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/da_vinci.v|
+!s101 -O0
+!i113 1
+R5
+n@d@a_@v@i@n@c@i
+vDA_VINCI_TB
+Z13 !s110 1554852523
+!i10b 1
+!s100 =j6b3=OTL;OTCIBIR::PU0
+ITePF3JN<jZ^142AGHOb043
+R1
+R2
+w1554852013
+8C:/Users/Nada/Downloads/Project 2/Project2_02/da_vinci_tb.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/da_vinci_tb.v
+R12
+R3
+r1
+!s85 0
+31
+Z14 !s108 1554852523.000000
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/da_vinci_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/da_vinci_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@d@a_@v@i@n@c@i_@t@b
+vMEM_64MB_TB
+R13
+!i10b 1
+!s100 3`A1>=864RSi3;Lz:n1Oa0
+I35a;c`lGE[BTJl2NJfJ0A3
+R1
+R2
+w1554852517
+8C:/Users/Nada/Downloads/Project 2/Project2_02/mem_64MB_tb.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/mem_64MB_tb.v
+Z15 L0 23
+R3
+r1
+!s85 0
+31
+R14
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/mem_64MB_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/mem_64MB_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@m@e@m_64@m@b_@t@b
+vMEMORY_64MB
+R13
+!i10b 1
+!s100 :1AFzeFFc3mJn0MoaYcm`3
+If8Pe`WBGb_ao`1W_]3Xbd2
+R1
+R2
+w1550704759
+8C:/Users/Nada/Downloads/Project 2/Project2_02/memory.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/memory.v
+R6
+R3
+r1
+!s85 0
+31
+R14
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/memory.v|
+!s101 -O0
+!i113 1
+R5
+n@m@e@m@o@r@y_64@m@b
+vPROC_CS147_SEC05
+R13
+!i10b 1
+!s100 hoddXg151;J@]_cW[Il_Y0
+InOOg3WQ@_U<n4EZ0VC[CY2
+R1
+R2
+w1554535403
+8C:/Users/Nada/Downloads/Project 2/Project2_02/processor.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/processor.v
+R15
+R3
+r1
+!s85 0
+31
+R14
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/processor.v|
+!s101 -O0
+!i113 1
+R5
+n@p@r@o@c_@c@s147_@s@e@c05
+vPROC_SM
+R0
+!i10b 1
+!s100 1FLaS94ABH@:WfcoFL=]Z2
+IS_kQcEj<NiF0oBk]jW=>[2
+R1
+R2
+R7
+R8
+R9
+L0 560
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!s101 -O0
+!i113 1
+R5
+n@p@r@o@c_@s@m
+vreg_tb
+R13
+!i10b 1
+!s100 C<TWlTBHX`G9W;F>zWcYK2
+IObfOL18jam8U1CQM>GKPX2
+R1
+R2
+w1554552714
+8C:/Users/Nada/Downloads/Project 2/Project2_02/reg_tb.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/reg_tb.v
+L0 33
+R3
+r1
+!s85 0
+31
+R14
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/reg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/reg_tb.v|
+!s101 -O0
+!i113 1
+R5
+vREGISTER_FILE_32x32
+R0
+!i10b 1
+!s100 4YXei`n2C<T?9^gcZ5[FR2
+Ima]bHkk_E7YaS=?L_^dSJ0
+R1
+R2
+w1554781882
+8C:/Users/Nada/Downloads/Project 2/Project2_02/register_file.v
+FC:/Users/Nada/Downloads/Project 2/Project2_02/register_file.v
+L0 29
+R3
+r1
+!s85 0
+31
+R4
+!s107 prj_definition.v|C:/Users/Nada/Downloads/Project 2/Project2_02/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Downloads/Project 2/Project2_02/register_file.v|
+!s101 -O0
+!i113 1
+R5
+n@r@e@g@i@s@t@e@r_@f@i@l@e_32x32

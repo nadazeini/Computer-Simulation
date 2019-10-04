@@ -1,0 +1,218 @@
+C:/Users/Nada/Desktop/prj_02_source/alu_tb.v {1 {vlog -work work -stats=none C:/Users/Nada/Desktop/prj_02_source/alu_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} C:/Users/Nada/Desktop/prj_02_source/control_unit.v {1 {vlog -work work -stats=none C:/Users/Nada/Desktop/prj_02_source/control_unit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CONTROL_UNIT
+-- Compiling module PROC_SM
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/logic_32_bit.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/logic_32_bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module NOR32_2x1
+-- Compiling module AND32_2x1
+-- Compiling module INV32_1x1
+-- Compiling module OR32_2x1
+
+Top level modules:
+	NOR32_2x1
+	AND32_2x1
+	INV32_1x1
+	OR32_2x1
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/memory.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEMORY_WRAPPER
+-- Compiling module MEMORY_64MB
+
+Top level modules:
+	MEMORY_WRAPPER
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/register_file_tb.v} {2 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/register_file_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RF_TB
+** Warning: C:/Users/Nada/Documents/Project 3/prj_03/prj3/register_file_tb.v(91): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	RF_TB
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/half_adder.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/half_adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HALF_ADDER
+
+Top level modules:
+	HALF_ADDER
+
+} {} {}} C:/Users/Nada/Desktop/prj_02_source/da_vinci_tb.v {1 {vlog -work work -stats=none C:/Users/Nada/Desktop/prj_02_source/da_vinci_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DA_VINCI_TB
+
+Top level modules:
+	DA_VINCI_TB
+
+} {} {}} C:/Users/Nada/Desktop/prj_02_source/alu.v {1 {vlog -work work -stats=none C:/Users/Nada/Desktop/prj_02_source/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/mux.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX32_32x1
+-- Compiling module MUX32_16x1
+-- Compiling module MUX32_8x1
+-- Compiling module MUX32_4x1
+-- Compiling module MUX32_2x1
+-- Compiling module MUX1_2x1
+
+Top level modules:
+	MUX32_32x1
+	MUX32_16x1
+	MUX32_8x1
+	MUX32_4x1
+	MUX32_2x1
+	MUX1_2x1
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/mult.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/mult.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MULT32
+-- Compiling module MULT32_U
+
+Top level modules:
+	MULT32
+	MULT32_U
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/da_vinci_tb.v} {2 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/da_vinci_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DA_VINCI_TB
+** Warning: C:/Users/Nada/Documents/Project 3/prj_03/prj3/da_vinci_tb.v(58): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	DA_VINCI_TB
+
+} {} {}} C:/Users/Nada/Desktop/prj_02_source/reg_tb.v {1 {vlog -work work -stats=none C:/Users/Nada/Desktop/prj_02_source/reg_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_tb
+
+Top level modules:
+	reg_tb
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/clk_gen.v} {2 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/clk_gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CLK_GENERATOR
+** Warning: C:/Users/Nada/Documents/Project 3/prj_03/prj3/clk_gen.v(32): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	CLK_GENERATOR
+
+} {} {}} C:/Users/Nada/Desktop/prj_02_source/register_file.v {1 {vlog -work work -stats=none C:/Users/Nada/Desktop/prj_02_source/register_file.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module REGISTER_FILE_32x32
+
+Top level modules:
+	REGISTER_FILE_32x32
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/prj_definition.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/prj_definition.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/data_path.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/data_path.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DATA_PATH
+
+Top level modules:
+	DATA_PATH
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/processor.v} {2 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/processor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PROC_CS147_SEC05
+** Warning: C:/Users/Nada/Documents/Project 3/prj_03/prj3/processor.v(47): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	PROC_CS147_SEC05
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/rc_add_sub_32.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/rc_add_sub_32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RC_ADD_SUB_64
+-- Compiling module RC_ADD_SUB_32
+
+Top level modules:
+	RC_ADD_SUB_64
+	RC_ADD_SUB_32
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/full_adder.v} {2 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/full_adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FULL_ADDER
+** Warning: C:/Users/Nada/Documents/Project 3/prj_03/prj3/full_adder.v(28): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	FULL_ADDER
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/mem_64MB_tb.v} {2 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/mem_64MB_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_64MB_TB
+** Warning: C:/Users/Nada/Documents/Project 3/prj_03/prj3/mem_64MB_tb.v(110): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	MEM_64MB_TB
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/barrel_shifter.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/barrel_shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SHIFT32
+-- Compiling module BARREL_SHIFTER32
+-- Compiling module SHIFT32_R
+-- Compiling module SHIFT32_L
+
+Top level modules:
+	SHIFT32
+	BARREL_SHIFTER32
+	SHIFT32_R
+	SHIFT32_L
+
+} {} {}} C:/Users/Nada/Desktop/prj_02_source/da_vinci.v {1 {vlog -work work -stats=none C:/Users/Nada/Desktop/prj_02_source/da_vinci.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DA_VINCI
+
+Top level modules:
+	DA_VINCI
+
+} {} {}} {C:/Users/Nada/Documents/Project 3/prj_03/prj3/logic.v} {1 {vlog -work work -stats=none {C:/Users/Nada/Documents/Project 3/prj_03/prj3/logic.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TWOSCOMP64
+-- Compiling module TWOSCOMP32
+-- Compiling module REG32
+-- Compiling module REG1
+-- Compiling module D_FF
+-- Compiling module D_LATCH
+-- Compiling module SR_LATCH
+-- Compiling module DECODER_5x32
+-- Compiling module DECODER_4x16
+-- Compiling module DECODER_3x8
+-- Compiling module DECODER_2x4
+
+Top level modules:
+	TWOSCOMP64
+	TWOSCOMP32
+	REG32
+	REG1
+	D_FF
+	D_LATCH
+	SR_LATCH
+	DECODER_5x32
+	DECODER_4x16
+	DECODER_3x8
+	DECODER_2x4
+
+} {} {}}

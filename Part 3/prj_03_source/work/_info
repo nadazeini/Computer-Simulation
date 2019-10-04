@@ -1,0 +1,1533 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+va_bitRegester_tb
+Z0 !s110 1556942582
+!i10b 1
+!s100 >l;52XC7V0eoi@ZKTV_OM2
+INW@aZaAD5M9kMWAdYaQe10
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Nada/Documents/Project 3/project 3 trial 5
+w1556022509
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_1bitreg.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_1bitreg.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1556942582.000000
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_1bitreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_1bitreg.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+na_bit@regester_tb
+va_RF_TB
+Z6 !s110 1556942581
+!i10b 1
+!s100 KK:g7TYZ>?cB3]ecSW6L:0
+IUckXj<9Z0G[jNimFG85lN1
+R1
+R2
+w1556027975
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg_FILETESTING.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/reg_FILETESTING.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1556942581.000000
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg_FILETESTING.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg_FILETESTING.v|
+!s101 -O0
+!i113 1
+R5
+na_@r@f_@t@b
+vALU
+Z8 !s110 1556947270
+!i10b 1
+!s100 H2VW82WQ87CD^iTGGZkd?3
+IHbcE3Fcm6@]DHSe4M1YE93
+R1
+R2
+Z9 w1556947267
+Z10 8C:/Users/Nada/Documents/Project 3/project 3 trial 5/alu.v
+Z11 FC:/Users/Nada/Documents/Project 3/project 3 trial 5/alu.v
+L0 25
+R3
+r1
+!s85 0
+31
+Z12 !s108 1556947270.000000
+Z13 !s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/alu.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/alu.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u
+valu_tb
+!s110 1556946984
+!i10b 1
+!s100 6B5LVRkfSUQA?J[>ij]SS0
+II4>aT;dWaAGU_YfH6jDiD2
+R1
+R2
+w1556947464
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/alu_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/alu_tb.v
+Z15 L0 26
+R3
+r1
+!s85 0
+31
+!s108 1556946984.000000
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/alu_tb.v|
+!s101 -O0
+!i113 1
+R5
+vAND32_2x1
+Z16 !s110 1556946975
+!i10b 1
+!s100 ;C7:[]1o@YA7YgSYY1J8i1
+I9G[Qc>fnJ>]>`IHlMJ:0?1
+R1
+R2
+Z17 w1555827669
+Z18 8C:/Users/Nada/Documents/Project 3/project 3 trial 5/logic_32_bit.v
+Z19 FC:/Users/Nada/Documents/Project 3/project 3 trial 5/logic_32_bit.v
+Z20 L0 37
+R3
+r1
+!s85 0
+31
+Z21 !s108 1556946975.000000
+Z22 !s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/logic_32_bit.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/logic_32_bit.v|
+!s101 -O0
+!i113 1
+R5
+n@a@n@d32_2x1
+vBARREL_SHIFTER32
+Z24 !s110 1556942578
+!i10b 1
+!s100 0cYQ7Omc1T:ngR<@CGEGH2
+IICEj6BW[3TPJcYF:f?V1]0
+R1
+R2
+Z25 w1555886935
+Z26 8C:/Users/Nada/Documents/Project 3/project 3 trial 5/barrel_shifter.v
+Z27 FC:/Users/Nada/Documents/Project 3/project 3 trial 5/barrel_shifter.v
+L0 38
+R3
+r1
+!s85 0
+31
+Z28 !s108 1556942578.000000
+Z29 !s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/barrel_shifter.v|
+Z30 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/barrel_shifter.v|
+!s101 -O0
+!i113 1
+R5
+n@b@a@r@r@e@l_@s@h@i@f@t@e@r32
+vbarrel_shifter_tb
+!s110 1556951030
+!i10b 1
+!s100 H`g:LGXaV]:GIIOL7>k?o2
+I6cPQFAo<D]2ES3BiTLkk81
+R1
+R2
+w1556951028
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/barrel_shifter_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/barrel_shifter_tb.v
+L0 11
+R3
+r1
+!s85 0
+31
+!s108 1556951030.000000
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/barrel_shifter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/barrel_shifter_tb.v|
+!s101 -O0
+!i113 1
+R5
+vBUF32_1x1
+R16
+!i10b 1
+!s100 ^NO8HX8M`PYR;:>Kd]>F22
+IF>aV@@=IaVT6R4McWlgj41
+R1
+R2
+R17
+R18
+R19
+L0 92
+R3
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R5
+n@b@u@f32_1x1
+vCLK_GENERATOR
+R24
+!i10b 1
+!s100 I`I=T4aaeE09lSRDFRN971
+IJjfo56N1lSV2[ciO`HeNP3
+R1
+R2
+w1554535552
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/clk_gen.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/clk_gen.v
+Z31 L0 16
+R3
+r1
+!s85 0
+31
+R28
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/clk_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/clk_gen.v|
+!s101 -O0
+!i113 1
+R5
+n@c@l@k_@g@e@n@e@r@a@t@o@r
+vCONTROL_UNIT
+!s110 1556753758
+!i10b 1
+!s100 g_iGbNgK6e3In>?A=Kibe3
+IbXeLzB_ZTXga3>KJ3T5]92
+R1
+R2
+w1554851738
+Z32 8C:/Users/Nada/Documents/Project 3/project 3 trial 5/control_unit.v
+Z33 FC:/Users/Nada/Documents/Project 3/project 3 trial 5/control_unit.v
+L0 34
+R3
+r1
+!s85 0
+31
+!s108 1556753758.000000
+Z34 !s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/control_unit.v|
+Z35 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/control_unit.v|
+!s101 -O0
+!i113 1
+R5
+n@c@o@n@t@r@o@l_@u@n@i@t
+vD_FF
+Z36 !s110 1556948667
+!i10b 1
+!s100 LWFdH>jYMWjE3ebB@6zN<2
+I>jXL1k;_b>VKdk_<0kZ`S3
+R1
+R2
+Z37 w1556948076
+Z38 8C:/Users/Nada/Documents/Project 3/project 3 trial 5/logic.v
+Z39 FC:/Users/Nada/Documents/Project 3/project 3 trial 5/logic.v
+L0 111
+R3
+r1
+!s85 0
+31
+Z40 !s108 1556948666.000000
+Z41 !s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/logic.v|
+Z42 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/logic.v|
+!s101 -O0
+!i113 1
+R5
+n@d_@f@f
+vd_ff_tb
+R24
+!i10b 1
+!s100 NMjnmGIc?;d<=]6G8f1ZQ3
+IjT4<`l@Bo]k8RP0A4BJCZ2
+R1
+R2
+w1556104022
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/d_ff_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/d_ff_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R28
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/d_ff_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/d_ff_tb.v|
+!s101 -O0
+!i113 1
+R5
+vD_LATCH
+R36
+!i10b 1
+!s100 8L65;Pe0OZXn6G;WN`MP<2
+I5?S<B8jP^B@8B3;gifWmJ3
+R1
+R2
+R37
+R38
+R39
+L0 123
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@d_@l@a@t@c@h
+vd_latch_tb
+Z43 !s110 1556942579
+!i10b 1
+!s100 jbmF<NLkK`lL<SmUCMzZE2
+IR7<=6Ik3DJ_BklCzAO:5I1
+R1
+R2
+w1556102236
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/d_latch_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/d_latch_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z44 !s108 1556942579.000000
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/d_latch_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/d_latch_tb.v|
+!s101 -O0
+!i113 1
+R5
+vDA_VINCI
+R43
+!i10b 1
+!s100 @Cfmb0Z_T`MjRPoLI@k6C0
+In?O;:OYnf;5k1Tc[Ae`240
+R1
+R2
+w1554535544
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/da_vinci.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/da_vinci.v
+Z45 L0 24
+R3
+r1
+!s85 0
+31
+R44
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/da_vinci.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/da_vinci.v|
+!s101 -O0
+!i113 1
+R5
+n@d@a_@v@i@n@c@i
+vDA_VINCI_TB
+R43
+!i10b 1
+!s100 =j6b3=OTL;OTCIBIR::PU0
+IbL;1>`YC:[VzFED3i6T;[1
+R1
+R2
+w1554852013
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/da_vinci_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/da_vinci_tb.v
+R45
+R3
+r1
+!s85 0
+31
+R44
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/da_vinci_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/da_vinci_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@d@a_@v@i@n@c@i_@t@b
+vDATA_PATH
+R0
+!i10b 1
+!s100 aciEQVBTJCP<`6cOhSN;I1
+IHRbIcL[L3lk<3H6UIhWWd1
+R1
+R2
+w1556942570
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/data_path.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/data_path.v
+L0 20
+R3
+r1
+!s85 0
+31
+R4
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/data_path.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/data_path.v|
+!s101 -O0
+!i113 1
+R5
+n@d@a@t@a_@p@a@t@h
+vDECODER_2x4
+R36
+!i10b 1
+!s100 k@TY1jeg^FCYaA@jGIbY:2
+Ioi^m@l6JoWO4zcLkGRzUZ1
+R1
+R2
+R37
+R38
+R39
+L0 223
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@d@e@c@o@d@e@r_2x4
+vDECODER_3x8
+R36
+!i10b 1
+!s100 FElJXFXOTh5QE=<JI19g:0
+Ih1JBinTj<QRS^oOS5hXK?1
+R1
+R2
+R37
+R38
+R39
+L0 203
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@d@e@c@o@d@e@r_3x8
+vDECODER_4x16
+R36
+!i10b 1
+!s100 2zjJ0;<mLLomL1nM:8a5T2
+I4D``oZlPS8[GDhNfc?4aa0
+R1
+R2
+R37
+R38
+R39
+Z46 L0 182
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@d@e@c@o@d@e@r_4x16
+vDECODER_5x32
+R36
+!i10b 1
+!s100 B8Bg99jGgjETEah3Q4;=[2
+IVR@3CmPn>3;IFSNkJ<DMi0
+R1
+R2
+R37
+R38
+R39
+L0 162
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@d@e@c@o@d@e@r_5x32
+vdecoder_5x32_tb
+R43
+!i10b 1
+!s100 ROL8mSe5TBzz?^kG6?^1l2
+I6R2hBRH8a@G]o=Iii9L7T3
+R1
+R2
+w1556015371
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/decoder_5x32_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/decoder_5x32_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R44
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/decoder_5x32_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/decoder_5x32_tb.v|
+!s101 -O0
+!i113 1
+R5
+vFULL_ADDER
+R43
+!i10b 1
+!s100 iGG6a:H3g:BaPJ9Cc4IbI2
+Ia00AT7??h:aNe0g>ON1861
+R1
+R2
+w1555459647
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/full_adder.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/full_adder.v
+Z47 L0 22
+R3
+r1
+!s85 0
+31
+R44
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/full_adder.v|
+!s101 -O0
+!i113 1
+R5
+n@f@u@l@l_@a@d@d@e@r
+vfull_adder_tb
+R43
+!i10b 1
+!s100 A2NP<_fh3E0]S>53]QmJ62
+IMI6aRz[7K3C]HzdzD0bZ_0
+R1
+R2
+w1555458242
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/full_adder_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/full_adder_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R44
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/full_adder_tb.v|
+!s101 -O0
+!i113 1
+R5
+vHALF_ADDER
+R43
+!i10b 1
+!s100 aNCH@Fd9;nPE;JoZiKASg0
+IZSZcNT3NY2RC?QG6jU`mk0
+R1
+R2
+w1555458209
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/half_adder.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/half_adder.v
+L0 21
+R3
+r1
+!s85 0
+31
+R44
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/half_adder.v|
+!s101 -O0
+!i113 1
+R5
+n@h@a@l@f_@a@d@d@e@r
+vhalf_adder_tb
+Z48 !s110 1556942580
+!i10b 1
+!s100 Q?7:R4`671Rk:Vf?646ma3
+I<E[3>?g`8gPFB2Wg2:d643
+R1
+R2
+w1555458257
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/half_adder_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/half_adder_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R44
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/half_adder_tb.v|
+!s101 -O0
+!i113 1
+R5
+vINV32_1x1
+R16
+!i10b 1
+!s100 zI_bElC7DNi7mMfA8WhC80
+IAAL56Ji@SG^LjZSz7hgc:2
+R1
+R2
+R17
+R18
+R19
+Z49 L0 56
+R3
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R5
+n@i@n@v32_1x1
+vMEM_64MB_TB
+R48
+!i10b 1
+!s100 3`A1>=864RSi3;Lz:n1Oa0
+IbGRWUZn6Lb5EnA3j6JIG30
+R1
+R2
+w1554852517
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/mem_64MB_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/mem_64MB_tb.v
+Z50 L0 23
+R3
+r1
+!s85 0
+31
+Z51 !s108 1556942580.000000
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/mem_64MB_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/mem_64MB_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@m@e@m_64@m@b_@t@b
+vMEMORY_64MB
+R48
+!i10b 1
+!s100 :1AFzeFFc3mJn0MoaYcm`3
+IVdiRhfWiP<ek6]?P_hnM13
+R1
+R2
+w1550704759
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/memory.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/memory.v
+R15
+R3
+r1
+!s85 0
+31
+R51
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/memory.v|
+!s101 -O0
+!i113 1
+R5
+n@m@e@m@o@r@y_64@m@b
+vMULT32
+Z52 !s110 1556943583
+!i10b 1
+!s100 @ETWUW_Gz?0mAc^k:j<fL3
+IR2YWAP>2ni>l6c@NPi?be1
+R1
+R2
+Z53 w1556942573
+Z54 8C:/Users/Nada/Documents/Project 3/project 3 trial 5/mult.v
+Z55 FC:/Users/Nada/Documents/Project 3/project 3 trial 5/mult.v
+R47
+R3
+r1
+!s85 0
+31
+Z56 !s108 1556943582.000000
+Z57 !s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/mult.v|
+Z58 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/mult.v|
+!s101 -O0
+!i113 1
+R5
+n@m@u@l@t32
+vMULT32_U
+R52
+!i10b 1
+!s100 AmS5`WAa`^1E;3IEZ0D@e0
+I;Y2_4Xc_b5JiXl>mFEb^B0
+R1
+R2
+R53
+R54
+R55
+L0 64
+R3
+r1
+!s85 0
+31
+R56
+R57
+R58
+!s101 -O0
+!i113 1
+R5
+n@m@u@l@t32_@u
+vmult_tb
+!s110 1556944249
+!i10b 1
+!s100 61cz7g?aA59I[gU_QQdPC1
+IkWC^]=P=O>WmeXnH;:X683
+R1
+R2
+w1556944221
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/mult_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/mult_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1556944249.000000
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/mult_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/mult_tb.v|
+!s101 -O0
+!i113 1
+R5
+vmultipliergolden
+R6
+!i10b 1
+!s100 GM`8F<aYDQn0?ma1SmadW2
+IkSHja8]mQjZ6:fIeWnfo@2
+R1
+R2
+w1555828469
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/multipliergolden.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/multipliergolden.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/multipliergolden.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/multipliergolden.v|
+!s101 -O0
+!i113 1
+R5
+vMUX1_2x1
+R6
+!i10b 1
+!s100 J>R0E?e]DiQKi9>2R@bAF3
+Ib_lmUD<fQ6`9B>Z0nWDb_1
+R1
+R2
+Z59 w1556921510
+Z60 8C:/Users/Nada/Documents/Project 3/project 3 trial 5/mux.v
+Z61 FC:/Users/Nada/Documents/Project 3/project 3 trial 5/mux.v
+L0 165
+R3
+r1
+!s85 0
+31
+R7
+Z62 !s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/mux.v|
+Z63 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/mux.v|
+!s101 -O0
+!i113 1
+R5
+n@m@u@x1_2x1
+vMUX26_2x1
+R6
+!i10b 1
+!s100 [0kQ2zF[D;SOWW;i=DB2F0
+IGVZ:@<WRTX@iK5ahJbi>10
+R1
+R2
+R59
+R60
+R61
+R46
+R3
+r1
+!s85 0
+31
+R7
+R62
+R63
+!s101 -O0
+!i113 1
+R5
+n@m@u@x26_2x1
+vMUX32_16x1
+R6
+!i10b 1
+!s100 c]gR:XY70oD`b3TX_U3eB2
+I6cDU<@M9fQ@cVMcS0]_=13
+R1
+R2
+R59
+R60
+R61
+L0 45
+R3
+r1
+!s85 0
+31
+R7
+R62
+R63
+!s101 -O0
+!i113 1
+R5
+n@m@u@x32_16x1
+vMUX32_2x1
+R6
+!i10b 1
+!s100 D;@RQPJ4m:Mh5NSCU10O]3
+IHn>Hm:czFSXn4KLa_DAfQ1
+R1
+R2
+R59
+R60
+R61
+L0 145
+R3
+r1
+!s85 0
+31
+R7
+R62
+R63
+!s101 -O0
+!i113 1
+R5
+n@m@u@x32_2x1
+vMUX32_32x1
+R6
+!i10b 1
+!s100 4EnhRO@a<Xd>FKiKi5C>c2
+I<Ll:l5FlZgPFMC`R>bX`72
+R1
+R2
+R59
+R60
+R61
+Z64 L0 17
+R3
+r1
+!s85 0
+31
+R7
+R62
+R63
+!s101 -O0
+!i113 1
+R5
+n@m@u@x32_32x1
+vMUX32_4x1
+R6
+!i10b 1
+!s100 [_0=ED3zDoICR?TG<kH]l2
+Im1UKTba:K9SiNYD>`@`CU2
+R1
+R2
+R59
+R60
+R61
+L0 100
+R3
+r1
+!s85 0
+31
+R7
+R62
+R63
+!s101 -O0
+!i113 1
+R5
+n@m@u@x32_4x1
+vMUX32_8x1
+R6
+!i10b 1
+!s100 fk;mi2d[QDzHC_2[`ZWdD0
+I_B5flbB_dmS^YWWTAG_Ia0
+R1
+R2
+R59
+R60
+R61
+L0 76
+R3
+r1
+!s85 0
+31
+R7
+R62
+R63
+!s101 -O0
+!i113 1
+R5
+n@m@u@x32_8x1
+vMUX5_2x1
+R6
+!i10b 1
+!s100 <^ScRaz2701=7f9zaL3^G2
+IWHG7<_R;gn]RAn6hD7R`23
+R1
+R2
+R59
+R60
+R61
+L0 202
+R3
+r1
+!s85 0
+31
+R7
+R62
+R63
+!s101 -O0
+!i113 1
+R5
+n@m@u@x5_2x1
+vMUX64_2x1
+R6
+!i10b 1
+!s100 lbUZ7K0DAJkNBUbo6@2fe2
+I[Q93Bl6Q06<cEognVGa9o1
+R1
+R2
+R59
+R60
+R61
+L0 127
+R3
+r1
+!s85 0
+31
+R7
+R62
+R63
+!s101 -O0
+!i113 1
+R5
+n@m@u@x64_2x1
+vmux_tb
+R6
+!i10b 1
+!s100 eJMMkHFNiO5[m8?bcj^4R3
+Ih>gSU1lge9WX_AOkWZ3Ni2
+R1
+R2
+w1555662119
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/mux_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/mux_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/mux_tb.v|
+!s101 -O0
+!i113 1
+R5
+vNAND_3
+R36
+!i10b 1
+!s100 Q6cl[UCAo<]A8>cW_dah>2
+IZQHEQlHE<JKk56dB:HfS03
+R1
+R2
+R37
+R38
+R39
+L0 245
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@n@a@n@d_3
+vNOR32_1x1
+R8
+!i10b 1
+!s100 IdWij04lXiFzkmi0STn;:1
+IUzQ>f@PPbVmMo4<fD3=S10
+R1
+R2
+R9
+R10
+R11
+L0 157
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!s101 -O0
+!i113 1
+R5
+n@n@o@r32_1x1
+vNOR32_2x1
+R16
+!i10b 1
+!s100 @`U]U`;NMEGjeK@EQXZTC2
+IjDD=zX`aDI7XGbEGm2oc>3
+R1
+R2
+R17
+R18
+R19
+L0 18
+R3
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R5
+n@n@o@r32_2x1
+vOR27_1x1
+R24
+!i10b 1
+!s100 O0mQzK_a59VgINe0dYo5G3
+I57`?eoNGLOYf^0OUWChL:2
+R1
+R2
+R25
+R26
+R27
+Z65 L0 61
+R3
+r1
+!s85 0
+31
+R28
+R29
+R30
+!s101 -O0
+!i113 1
+R5
+n@o@r27_1x1
+vOR32_2x1
+R16
+!i10b 1
+!s100 X2>lkQ51@fHM0[X1Ydb^I1
+I[^j2zZ]@fcllmBFcQbz1K2
+R1
+R2
+R17
+R18
+R19
+L0 74
+R3
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R5
+n@o@r32_2x1
+vor32x1
+R8
+!i10b 1
+!s100 GJRa1Fz9gD^LAVH0X]mFd1
+ICBf573hU?ETfgRzYVPQ5H2
+R1
+R2
+R9
+R10
+R11
+L0 122
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!s101 -O0
+!i113 1
+R5
+vPROC_CS147_SEC05
+R6
+!i10b 1
+!s100 hoddXg151;J@]_cW[Il_Y0
+ILKZ7I8fl7zR_dOE[Bfo?`1
+R1
+R2
+w1554535403
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/processor.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/processor.v
+R50
+R3
+r1
+!s85 0
+31
+R7
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/processor.v|
+!s101 -O0
+!i113 1
+R5
+n@p@r@o@c_@c@s147_@s@e@c05
+vPROC_SM
+R24
+!i10b 1
+!s100 e]zZlb2LN;N[Qz3k0FRIM2
+I9UO65M9@7HB@T`>3<3V=[1
+R1
+R2
+w1556881328
+R32
+R33
+L0 499
+R3
+r1
+!s85 0
+31
+R28
+R34
+R35
+!s101 -O0
+!i113 1
+R5
+n@p@r@o@c_@s@m
+vRC_ADD_SUB_32
+R6
+!i10b 1
+!s100 fi2J8gM@TiNghQozhedkz0
+I<i9h8S52>X[OYeH?g=7O@0
+R1
+R2
+Z66 w1555458560
+Z67 8C:/Users/Nada/Documents/Project 3/project 3 trial 5/rc_add_sub_32.v
+Z68 FC:/Users/Nada/Documents/Project 3/project 3 trial 5/rc_add_sub_32.v
+R65
+R3
+r1
+!s85 0
+31
+R7
+Z69 !s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/rc_add_sub_32.v|
+Z70 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/rc_add_sub_32.v|
+!s101 -O0
+!i113 1
+R5
+n@r@c_@a@d@d_@s@u@b_32
+vrc_add_sub_32_tb
+!s110 1556942868
+!i10b 1
+!s100 D@@E3>]nMR5^ccR0a_RQ?3
+I4feV1cJ7gMMAn4R7SLRYf1
+R1
+R2
+w1556942865
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/rc_add_sub_32_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/rc_add_sub_32_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1556942868.000000
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/rc_add_sub_32_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/rc_add_sub_32_tb.v|
+!s101 -O0
+!i113 1
+R5
+vRC_ADD_SUB_64
+R6
+!i10b 1
+!s100 l8[J;ONebaM^RR^V3]?2d2
+I:;[M1fH=^]FiLSK=3Q<o@1
+R1
+R2
+R66
+R67
+R68
+R50
+R3
+r1
+!s85 0
+31
+R7
+R69
+R70
+!s101 -O0
+!i113 1
+R5
+n@r@c_@a@d@d_@s@u@b_64
+vREG1
+R36
+!i10b 1
+!s100 3J6?AT0`=6=Q??S;T9;7E3
+Im?>8kj@d3MW`GM^E8K]oo3
+R1
+R2
+R37
+R38
+R39
+L0 97
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@r@e@g1
+vreg1_tb
+R0
+!i10b 1
+!s100 W:9kH;9J6nj1ME9b?lF]o3
+Ia^DZN<2C1fGgm;JGf`CBV1
+R1
+R2
+w1556237841
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg1_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/reg1_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg1_tb.v|
+!s101 -O0
+!i113 1
+R5
+vREG32
+R36
+!i10b 1
+!s100 mmL5g<GCUNKRlbZAo84BT3
+I<<L?DIgf>CdiEU_D9QZH_0
+R1
+R2
+R37
+R38
+R39
+L0 77
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@r@e@g32
+vREG32_PP
+R36
+!i10b 1
+!s100 Ea9GzZR1FT6o;eM0VkdY:3
+Icbkd8LL2JLLdCKk9D8P:Z0
+R1
+R2
+R37
+R38
+R39
+R49
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@r@e@g32_@p@p
+vreg_tb
+!s110 1556949649
+!i10b 1
+!s100 I:0PlSJ[81:GIhRlb0BYN0
+IBdoKKl]VXi0ID;iO]P`H`3
+R1
+R2
+w1556949646
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/reg_tb.v
+L0 33
+R3
+r1
+!s85 0
+31
+!s108 1556949649.000000
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/reg_tb.v|
+!s101 -O0
+!i113 1
+R5
+vREGISTER_FILE_32x32
+!s110 1556947282
+!i10b 1
+!s100 jOE]VE?Q0Ucz_APU?fGa30
+I]b19VSA3HJ8[o]B9[cHk[2
+R1
+R2
+w1556946529
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/register_file.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/register_file.v
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1556947282.000000
+!s107 prj_definition.v|C:/Users/Nada/Documents/Project 3/project 3 trial 5/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/register_file.v|
+!s101 -O0
+!i113 1
+R5
+n@r@e@g@i@s@t@e@r_@f@i@l@e_32x32
+vSET_LESS_THAN
+R8
+!i10b 1
+!s100 YVS0>RZ`Q:8Kd>nK4GZTa3
+IdSiML@8;o_BO?<X>9FmHZ1
+R1
+R2
+R9
+R10
+R11
+L0 86
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!s101 -O0
+!i113 1
+R5
+n@s@e@t_@l@e@s@s_@t@h@a@n
+vSHIFT32
+R24
+!i10b 1
+!s100 cf8Yj[UbiXDn]Ok2<IE5E3
+I@Ih[<of31<R3O>IS1;W2E2
+R1
+R2
+R25
+R26
+R27
+R31
+R3
+r1
+!s85 0
+31
+R28
+R29
+R30
+!s101 -O0
+!i113 1
+R5
+n@s@h@i@f@t32
+vSHIFT32_L
+R24
+!i10b 1
+!s100 ]l:`HGI6da`Wb_McbUca_1
+I:?mEd@a[eo7hD]FmBR^FO3
+R1
+R2
+R25
+R26
+R27
+L0 153
+R3
+r1
+!s85 0
+31
+R28
+R29
+R30
+!s101 -O0
+!i113 1
+R5
+n@s@h@i@f@t32_@l
+vSHIFT32_R
+R24
+!i10b 1
+!s100 UiaAamjo`Zl:3fN@A_eOF0
+I9khU]Hdfj<3GoG?g3Gf9U0
+R1
+R2
+R25
+R26
+R27
+L0 91
+R3
+r1
+!s85 0
+31
+R28
+R29
+R30
+!s101 -O0
+!i113 1
+R5
+n@s@h@i@f@t32_@r
+vSR_LATCH
+R36
+!i10b 1
+!s100 fC=gVb?bDHX8>ZIjSzS^03
+IJcj`Xd64h;lDik2FbCeeS0
+R1
+R2
+R37
+R38
+R39
+L0 146
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@s@r_@l@a@t@c@h
+vsr_latch_tb
+!s110 1556947612
+!i10b 1
+!s100 eIVZSRT[]ZJC:3cV[zikG1
+IQm=U664?iPX[=iPFAzmTT1
+R1
+R2
+w1556947572
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/sr_latch_tb.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/sr_latch_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1556947612.000000
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/sr_latch_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/sr_latch_tb.v|
+!s101 -O0
+!i113 1
+R5
+vtesting_32reg
+R0
+!i10b 1
+!s100 Ycc7O7?`gFJR2@427c;K13
+IQ1Hk0>Lf4BFQ2M]lMQ=::1
+R1
+R2
+w1556022846
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_32reg.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_32reg.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_32reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_32reg.v|
+!s101 -O0
+!i113 1
+R5
+vtesting_flip
+!s110 1556942577
+!i10b 1
+!s100 XlH0gF6d1_ii>1bbW_8mz1
+I?4^kLJ71BPGol1cQOzYZn2
+R1
+R2
+w1556023158
+8C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_flip.v
+FC:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_flip.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1556942577.000000
+!s107 C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_flip.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Nada/Documents/Project 3/project 3 trial 5/testing_flip.v|
+!s101 -O0
+!i113 1
+R5
+vTWOSCOMP32
+R36
+!i10b 1
+!s100 dfliU`d_EPFIJmh@B2zH53
+IiDKH8`9O;UI5K1:UkICXh1
+R1
+R2
+R37
+R38
+R39
+R20
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@t@w@o@s@c@o@m@p32
+vTWOSCOMP64
+!s110 1556948666
+!i10b 1
+!s100 n<@J_O_;=dakK4P:]X@PX3
+I3c5=bbU6^b80g;bknX=_10
+R1
+R2
+R37
+R38
+R39
+R64
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!s101 -O0
+!i113 1
+R5
+n@t@w@o@s@c@o@m@p64
